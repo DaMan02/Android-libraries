@@ -5,7 +5,7 @@
 2. [DiagonalLayout](https://github.com/florent37/DiagonalLayout)
 
    <img src="https://raw.githubusercontent.com/florent37/DiagonalLayout/master/media/with_elevation_small.png"
-     height="80"/>
+     height="120"/>
 
 3. [CameraKit - Library for Android Camera 1 and 2 APIs](https://github.com/CameraKit/camerakit-android)
 
@@ -32,4 +32,4 @@
 14. [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 
 15. [morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)
-    <img src="https://user-images.githubusercontent.com/15737675/41735760-d633e706-758a-11e8-9f30-3f07c8ed4371.gif" height="80"/>
+    <img src="https://user-images.githubusercontent.com/15737675/41735760-d633e706-758a-11e8-9f30-3f07c8ed4371.gif" height="120"/>
