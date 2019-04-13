@@ -35,7 +35,7 @@
 
 12. [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 
-   <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" height="150"/>
+    <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" height="150"/>
 
 13. [Lottie](https://github.com/airbnb/lottie-android)
 
