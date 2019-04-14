@@ -41,7 +41,7 @@
 
     <img src="https://github.com/wasabeef/awesome-android-ui/blob/master/art/lottie-android2.gif?raw=true" height="150"/>
 
-14. [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+14. [MaterialViewPager | florent37](https://github.com/florent37/MaterialViewPager)
 
     <img src="https://camo.githubusercontent.com/359d79f8f6cc6381234fee59f5b7c3bc055471ed/68747470733a2f2f7261772e6769746875622e636f6d2f666c6f72656e7433372f4d6174657269616c5669657750616765722f6d61737465722f73637265656e73686f74732f707265766965775f736d616c6c2e706e67" height="150"/>
 
@@ -52,3 +52,43 @@
 16. [RotatingText](https://github.com/mdg-iitr/RotatingText)
 
     <img src="https://github.com/mdg-iitr/RotatingText/blob/master/screens/gif_cover.gif?raw=true" height="150"/>
+    
+17. [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)
+
+    <img src="https://raw.githubusercontent.com/team-supercharge/ShimmerLayout/master/shimmerlayout.gif" height="150"/>
+    
+18. [Long-Shadows](https://github.com/harjot-oberai/Long-Shadows)
+
+    <img src="https://github.com/harjot-oberai/Long-Shadows/blob/master/screens/cover.png?raw=true" height="150"/>
+    
+19. [TextPathView](https://github.com/totond/TextPathView)
+
+    <img src="https://raw.githubusercontent.com/totond/MyTUKU/master/textdemo1.gif" height="150"/>
+    
+20. [ShapeOfView | florent37](https://github.com/florent37/ShapeOfView)
+
+    <img src="https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/arc.png" height="150"/>
+    
+21. [ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)
+
+22. [PhotoEditor](https://github.com/burhanrashid52/PhotoEditor)
+
+23. [KotlinPleaseAnimate | florent37](https://github.com/florent37/KotlinPleaseAnimate)
+
+    <img src="https://raw.githubusercontent.com/florent37/KotlinPleaseAnimate/master/media/scroll.gif" height="150"/>
+    
+24. [GraphView](https://github.com/Team-Blox/GraphView)
+
+    <img src="https://github.com/Team-Blox/GraphView/blob/master/image/Tree.png?raw=true" height="150"/>
+    
+25. [SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout)
+
+    <img src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif?raw=true" height="150"/>
+    
+26. [CosmoCalendar - a fully customizable calendar](https://github.com/AppliKeySolutions/CosmoCalendar)
+
+27. [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)
+
+    <img src="https://github.com/xmuSistone/VegaLayoutManager/blob/master/capture.gif?raw=true" height="150"/>
+    
+28. [inline-youtube-view | flipkart-incubator](https://github.com/flipkart-incubator/android-inline-youtube-view)
