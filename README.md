@@ -92,3 +92,7 @@
     <img src="https://github.com/xmuSistone/VegaLayoutManager/blob/master/capture.gif?raw=true" height="150"/>
     
 28. [inline-youtube-view | flipkart-incubator](https://github.com/flipkart-incubator/android-inline-youtube-view)
+
+29. [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
+
+    <img src="https://github.com/yarolegovich/SlidingRootNav/blob/master/art/sample.gif" height="180"/>
